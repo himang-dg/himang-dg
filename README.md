@@ -90,22 +90,4 @@
   <sub>Made with curiosity, consistency, and many cozy late-night commits ✨</sub>
 </div>
 
-## 🌐 GitHub Pages portfolio
 
-This repository now includes a lightweight, dependency-free portfolio site for GitHub Pages:
-
-- `index.html`
-- `styles.css`
-- `script.js`
-- `.github/workflows/deploy-pages.yml`
-
-### Enable deployment
-
-1. Open **Settings → Pages** in this repository.
-2. Set **Source** to **GitHub Actions**.
-3. Push to `main`/`master` (or run the workflow manually from **Actions**).
-
-After deployment, the site will be available at:
-- `https://himang-dg.github.io/himang-dg/`
-
-> If your default branch or repository name changes, update `.github/workflows/deploy-pages.yml` and the URL accordingly.
